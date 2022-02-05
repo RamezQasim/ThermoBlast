@@ -3,3 +3,5 @@ Instead of cooling or heating an entire room or building, this prototype promote
 
 [![Promotional Video](https://img.youtube.com/vi/8y_JpxQx2G0&t=1s/1.jpg)](https://www.youtube.com/watch?v=8y_JpxQx2G0&t=1s)
 
+[![Alt text for your video](https://img.youtube.com/vi/8y_JpxQx2G0&t=1s/0.jpg)](http://www.youtube.com/watch?v=8y_JpxQx2G0&t=1s)
+
